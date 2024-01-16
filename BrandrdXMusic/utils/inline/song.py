@@ -15,7 +15,7 @@ def song_markup(_, vidid):
         ],
         [
             InlineKeyboardButton(
-                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=f"{config.SUPPORT_CHAT}",
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url=f"https://t.me/AKATSUKI_OFFICIAL_0",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close"
